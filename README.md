@@ -3,5 +3,9 @@
 
 Please refer to the table regarding the uploaded files below.
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/6f5c4828-8bf0-4edd-9348-2f3edc055962" />
+| **File Name**                                  | **Contents**                                                          | **Description**                                                                                                                                                                                     |
+|------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Efficient_AI_snallape_50593866ipynb.ipynb**  | Jupyter Notebook (Python code) implementing Knowledge Distillation on the CIFAR-10 dataset | Contains data loading, model definitions (teacher & student), training routines, and evaluation metrics. Demonstrates how a smaller model can learn from a larger teacher model via distillation, tracking accuracy and losses.            |
+| **Efficient_AI_snallape_50593866.pdf**         | PDF report describing the concept, methodology, and results of the distillation experiments  | Discusses the theoretical background of Knowledge Distillation, experiment setup, hyperparameter choices, and performance comparisons. Includes a summary of the observed improvements and conclusions drawn from the results.           |
+
 
